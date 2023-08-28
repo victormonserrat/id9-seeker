@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Film Card renders correctly: Regular 1`] = `
+<div>
+  <div
+    class="sc-af21c34c-2 gGVSDn"
+  >
+    <div
+      class="sc-af21c34c-4 gkgsfe"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+      >
+        <span
+          style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 50% 0px 0px 0px;"
+        />
+        <img
+          alt="Title Cover"
+          data-nimg="responsive"
+          decoding="async"
+          sizes="100vw"
+          src="/_next/image?url=https%3A%2F%2Fcover.url&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fcover.url&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcover.url&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcover.url&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcover.url&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcover.url&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcover.url&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcover.url&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcover.url&w=3840&q=75 3840w"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </span>
+    </div>
+    <div
+      aria-hidden="true"
+      class="sc-af21c34c-6 dHhRXG"
+      role="separator"
+    />
+    <div
+      class="sc-af21c34c-3 ipzcKO"
+    >
+      <div>
+        <h5
+          class="sc-af21c34c-1 hgDvBZ"
+        >
+          Episode Episode - Title
+        </h5>
+      </div>
+      <span
+        class="sc-af21c34c-5 gkBrxH"
+      >
+        Release
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Film Card renders with body correctly: With body 1`] = `
+<div>
+  <div
+    class="sc-af21c34c-2 gGVSDn"
+  >
+    <div
+      class="sc-af21c34c-4 gkgsfe"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+      >
+        <span
+          style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 50% 0px 0px 0px;"
+        />
+        <img
+          alt="Title Cover"
+          data-nimg="responsive"
+          decoding="async"
+          sizes="100vw"
+          src="/_next/image?url=https%3A%2F%2Fcover.url&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fcover.url&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcover.url&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcover.url&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcover.url&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcover.url&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcover.url&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcover.url&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcover.url&w=3840&q=75 3840w"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+        />
+      </span>
+    </div>
+    <div
+      aria-hidden="true"
+      class="sc-af21c34c-6 dHhRXG"
+      role="separator"
+    />
+    <div
+      class="sc-af21c34c-3 ipzcKO"
+    >
+      <div>
+        <h5
+          class="sc-af21c34c-1 hgDvBZ"
+        >
+          Episode Episode - Title
+        </h5>
+        <p
+          class="sc-af21c34c-0 AFxMt"
+        >
+          Body
+        </p>
+      </div>
+      <span
+        class="sc-af21c34c-5 gkBrxH"
+      >
+        Release
+      </span>
+    </div>
+  </div>
+</div>
+`;

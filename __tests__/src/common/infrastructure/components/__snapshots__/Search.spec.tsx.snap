@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search renders correctly: Regular 1`] = `
+<div>
+  <form
+    class="sc-acb5f70f-1 dBpRac"
+    novalidate=""
+    role="search"
+  >
+    <div
+      class="sc-acb5f70f-3 kZyzbJ"
+    >
+      <input
+        autocapitalize="none"
+        autocomplete="off"
+        autocorrect="off"
+        class="sc-acb5f70f-2 fGCZhr"
+        name="search"
+        placeholder="Search"
+        role="searchbox"
+        spellcheck="false"
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="sc-acb5f70f-0 bNzZfY"
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Search renders disabled correctly: Disabled 1`] = `
+<div>
+  <form
+    class="sc-acb5f70f-1 dBpRac"
+    novalidate=""
+    role="search"
+  >
+    <div
+      class="sc-acb5f70f-3 kZyzbJ"
+    >
+      <input
+        autocapitalize="none"
+        autocomplete="off"
+        autocorrect="off"
+        class="sc-acb5f70f-2 fGCZhr"
+        disabled=""
+        name="search"
+        placeholder="Search"
+        role="searchbox"
+        spellcheck="false"
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="sc-acb5f70f-0 bNzZfY"
+      disabled=""
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
+</div>
+`;
